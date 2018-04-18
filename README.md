@@ -1,2 +1,1 @@
-# Freizeit-Produkt
-Freizeit Produkt
+# Freizeit-Projekt
